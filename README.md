@@ -1,16 +1,40 @@
-## Hi there 👋
+# Prajit Datta
 
-<!--
-**prajitdatta/prajitdatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Architect | Applied AI Strategist | International Public Speaker
 
-Here are some ideas to get you started:
+I work at the intersection of artificial intelligence, engineering and real world adoption.  
+My focus is helping organisations move from AI experiments to reliable AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design:
+• Production AI architectures
+• Enterprise copilots & automation
+• AI governance and safety frameworks
+• Decision intelligence platforms
+
+---
+
+## Current Focus
+Building practical AI that companies can actually trust, operate and scale.
+
+Topics I actively work on:
+- AI Native Organizations
+- Human + AI collaboration
+- Autonomous operations
+- Responsible AI deployment
+
+---
+
+## Writing & Research
+Website: https://www.prajitdatta.com  
+Substack: https://prajitdatta.substack.com/
+
+---
+
+## Talks & Collaboration
+I regularly speak and advise on applied AI transformation and future systems design.
+
+LinkedIn: https://linkedin.com/in/prajitdatta
+
+---
+
+*"Technology becomes valuable only when humans can rely on it."*
