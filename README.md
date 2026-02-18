@@ -1,77 +1,82 @@
-# Prajit Datta
+<img src="https://static.wixstatic.com/media/68ad1b_96c952149d584505bdfc30a3cbf36795~mv2.jpg" width="100%" height="3" alt="">
 
-AI Systems Architect | Applied Artificial Intelligence | International Public Speaker
+## Hey, I'm Prajit 👋
 
-I work on making artificial intelligence usable in the real world.  
-My focus is not building models in isolation, but designing systems where AI becomes a dependable operational capability inside organisations.
+**AI Research Scientist & Consultant** at [AFRY](https://afry.com) · **US Patent Holder** · **International Speaker**
 
-I help teams move from experimentation to adoption by combining engineering discipline, architecture thinking and business context.
+I architect the transition from AI experimentation to production-scale impact — designing intelligent systems where AI becomes dependable operational infrastructure, not experimental software.
 
----
-
-## What I Do
-
-I design and guide implementation of AI driven systems that operate in production environments.
-
-Areas I typically work on:
-
-• Enterprise AI architecture and platform design  
-• AI copilots and workflow automation  
-• Human + AI decision support systems  
-• Autonomous monitoring and operational intelligence  
-• Responsible AI governance and risk controls  
-
-The goal is always the same:  
-AI should reduce uncertainty, not introduce it.
+Based in Gothenburg, Sweden. Speaking across 20+ countries. Building in the open.
 
 ---
 
-## Current Interests
+### 🔬 What I Do
 
-I am particularly interested in how organisations evolve when AI becomes a normal co worker rather than a tool.
+At **AFRY** — one of Europe's largest engineering and consulting firms — I lead the **AI Global Competence Group** and work across industrial and enterprise environments, bridging advanced AI capabilities with real operational deployment.
 
-Topics I explore and write about:
+Previously, I built financial data products and distributed ML systems at **Bank of America's Chief Data Scientist Organization (GTO)**, where I co-invented a **US Patent** for a hierarchical machine learning framework for adaptive enterprise threat detection.
 
-- AI native organisations
-- Human machine collaboration
-- Reliable automation at scale
-- Trust and verification in AI outputs
-- Operationalising large language models
-- Cognitive load reduction using AI systems
+**Core areas:** Intelligent Systems Architecture · AI Governance & Safety · Production ML · AI Product Strategy · Strategic Advisory
 
 ---
 
-## Background
+### 🛠️ Open Source — Giving Back
 
-I work with engineering and consulting environments where AI must integrate with real operational processes, not demos.
+I believe the best way to advance AI is to build in the open. These tools are born from real production experience, shared freely.
 
-My experience includes:
-- Enterprise scale data and AI platforms
-- Cross functional adoption of AI tools
-- Advisory on practical AI transformation
-- Speaking and workshops on applied AI
-
----
-
-## Writing
-
-I publish long form thoughts and future scenarios:
-
-Website  
-https://www.prajitdatta.com
-
-Newsletter  
-https://prajitdatta.substack.com
+| Repository | What it does |
+|:---|:---|
+| **[LLM-Semantic-Cache](https://github.com/prajitdatta/LLM-Semantic-Cache)** | Stop paying for the same LLM response twice. Cache by meaning, not exact text. |
+| **[AI-Agent-Autopsy](https://github.com/prajitdatta/AI-Agent-Autopsy)** | Cut open broken LLM agents. Find what killed them. Fix it before you ship. |
+| **[RAG-Autopsy](https://github.com/prajitdatta/RAG-Autopsy)** | Cut open broken RAG pipelines. Find what killed them. Fix it before you ship. |
 
 ---
 
-## Collaboration
+### ✍️ Writing & Research
 
-I am open to discussions around applied AI systems, organisational adoption and speaking engagements.
+I write about production AI, future cities, governance, and what happens when intelligence stops living only inside humans.
 
-LinkedIn  
-https://linkedin.com/in/prajitdatta
+**Latest articles →** [prajitdatta.com/thoughtsandresearch](https://www.prajitdatta.com/thoughtsandresearch)
+
+- *The City That Debugs Itself: Inside the Real-Time Operating Systems Running Tomorrow's Megacities*
+- *The Invisible Patient: How Continuous Biosensors Will Make "Feeling Fine" a Medical Diagnosis*
+- *Why 94% of Companies Are Still Failing at Production Deployment*
+- *When Silicon Valley Met Swiss Alps — and Neither Could Agree on AI's Future*
+
+📬 **Subscribe for new articles →** [prajitdatta.substack.com](https://prajitdatta.substack.com)
 
 ---
 
-*"Technology becomes valuable when people can rely on its behaviour."*
+### 🎤 Speaking
+
+I deliver keynotes and workshops at technology and leadership forums worldwide — TEDx, CIO/CTO conferences, Almedalsveckan, CES, and executive summits across the US, Europe, and Asia.
+
+**Topics:** Production AI · AI Governance & the EU AI Act · Intelligent Systems Architecture · The Future of Human-AI Collaboration
+
+> **Booking a speaking engagement?** Reach me at **[prajitdatta@outlook.com](mailto:prajitdatta@outlook.com?subject=Speaking%20Engagement%20Enquiry)**
+
+---
+
+### 🏛️ Communities & Councils
+
+**Forbes Technology Council** · **World Economic Forum — Global Shapers** · **TEDx Speaker** · **Norden Impact — Board Member** · **Linux Foundation / Hyperledger — Sweden Lead** · **Google Developer Community — West Sweden Leader**
+
+---
+
+### 📡 Connect
+
+| | |
+|:---|:---|
+| 🌐 **Website** | [prajitdatta.com](https://www.prajitdatta.com) |
+| 📬 **Substack** | [prajitdatta.substack.com](https://prajitdatta.substack.com) |
+| 💼 **LinkedIn** | [in/prajitdatta](https://linkedin.com/in/prajitdatta) |
+| ✍️ **Medium** | [@prajitdatta](https://medium.com/@prajitdatta) |
+| 📊 **Kaggle** | [prajitdatta](https://www.kaggle.com/prajitdatta) |
+| 🤝 **Work with me** | [topmate.io/prajitdatta](https://topmate.io/prajitdatta) |
+| 🎤 **Speaking enquiries** | [prajitdatta@outlook.com](mailto:prajitdatta@outlook.com?subject=Speaking%20Engagement%20Enquiry) |
+
+---
+
+<p align="center"><i>"Technology becomes valuable when humans can rely on its behaviour."</i><br><sub>— Karmev Jayate</sub></p>
+
+<img src="https://static.wixstatic.com/media/68ad1b_96c952149d584505bdfc30a3cbf36795~mv2.jpg" width="100%" height="3" alt="">
