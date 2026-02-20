@@ -6,7 +6,7 @@
 
 I architect the transition from AI experimentation to production-scale impact — designing intelligent systems where AI becomes dependable operational infrastructure, not experimental software.
 
-Based in Gothenburg, Sweden. Speaking across 20+ countries. Building in the open.
+Based in Sweden. Speaking across 20+ countries. Building in the open.
 
 ---
 
